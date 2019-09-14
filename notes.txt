@@ -1,0 +1,1 @@
+hi my name is mahmoudthis text is appended to the original file using appendFileSync
